@@ -16,4 +16,4 @@
 # command.
 
 # Run RMG on the input.py file.
-python ../../../rmg.py input.py
+python $RMGpy/rmg.py input.py
